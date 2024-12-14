@@ -430,15 +430,51 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
+     - name: 越权访问
+        artist: Hanser
+        url: audios/越权访问.mp3
+        cover: audios/越权访问.jpg
+        lrc: audios/越权访问.lrc
       - name: Fool For You
         artist: KASTRA
-        url: http://music.163.com/song/media/outer/url?id=1817576399.mp3
-        cover: http://p1.music.126.net/yJ_wry8wM2NaCOIxGjUKaA==/109951168980097868.jpg
+        url: audios/Fool For You.mp3
+        cover: audios/Fool For You.jpg
+        lrc: audios/Fool For You.lrc
+      - name: 雾里
+        artist: 姚六一
+        url: audios/雾里.mp3
+        cover: audios/雾里.jpg
+        lrc: audios/雾里.lrc
+      - name: My Way
+        artist: Veysigz
+        url: audios/My Way.mp3
+        cover: audios/My Way.jpg
+        lrc: audios/My Way.lrc
+      - name: 字正腔圆
+        artist: 伦桑/张晓涵
+        url: audios/字正腔圆.mp3
+        cover: audios/字正腔圆.jpg
+        lrc: audios/字正腔圆.lrc
+      - name: 暮色回响
+        artist: 吉星出租
+        url: audios/暮色回响.mp3
+        cover: audios/暮色回响.jpg
+        lrc: audios/暮色回响.lrc
+      - name: 经过
+        artist: 张杰/HOYO-MiX
+        url: audios/经过.mp3
+        cover: audios/经过.jpg
+        lrc: audios/经过.lrc
+      - name: Cyberangel
+        artist: hanser
+        url: audios/Cyberangel.mp3
+        cover: audios/Cyberangel.jpg
+        lrc: audios/Cyberangel.lrc
 #      - name: # audio name
 #        artist: # audio artist
-#        url: # audio url
-#        cover: # audio cover url
-#        lrc: # audio cover lrc
+#        url: audio/ # audio url
+#        cover: audio/ # audio cover url
+#        lrc: audio/ # audio cover lrc
       # .... you can add more audios here
   # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
   mermaid:
