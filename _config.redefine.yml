@@ -122,8 +122,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/wallpaper-light.webp # light mode
-    dark: /images/wallpaper-dark.webp # dark mode
+    light: /images/wallpaper-ligh # light mode
+    dark: /images/wallpaper-dar # dark mode
   # Home banner title
   title: Duce.Travel 渡星旅
   # Home banner subtitle
