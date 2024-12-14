@@ -430,8 +430,8 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
-     - name: 越权访问
-        artist: Hanser
+      - name: 越权访问
+        artist: hanser
         url: audios/越权访问.mp3
         cover: audios/越权访问.jpg
         lrc: audios/越权访问.lrc
