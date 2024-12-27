@@ -1,0 +1,19 @@
+- links_category: Duce.Projects
+  has_thumbnail: false
+  list:
+      - name: Duce.Travel 渡星旅
+        link: https://github.com/DuceX/ducex.github.io
+        description: My Blog
+        avatar: 
+
+- links_category: LZYZ-OI Projects
+  has_thumbnail: false
+  list:
+      - name: LZYZ-OI Wiki
+        link: https://github.com/DuceX/LZYZ-OI-Wiki
+        description: 
+        avatar: 
+      - name: LZYZ-OI OJ
+        link: 
+        description: 暂未开放
+        avatar: 
