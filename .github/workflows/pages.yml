@@ -29,6 +29,14 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
+      - name: Install Mermaid JS
+        run: npm install hexo-filter-mermaid-diagrams
+      - name: Install hexo-all-minifier
+        run: npm install hexo-all-minifier
+      - name: Install Mathjax
+        run: npm install hexo-filter-mathjax
+      - name: Uninstall Encrypt
+        run: npm uninstall hexo-blog-encrypt
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
