@@ -196,12 +196,12 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    首页: 
-      path: / 
-      icon: fa-regular fa-house # can be empty
     个人主页:
       path: https://ducex.github.io/
       icon: fa-regular fa-user
+    Home: 
+      path: / 
+      icon: fa-regular fa-house # can be empty
     星纪: 
       path: /archives 
       icon: fa-regular fa-archive # can be empty
