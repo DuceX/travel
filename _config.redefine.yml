@@ -429,6 +429,10 @@ plugins:
     enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
+      - name: Chinatown Blues
+        artist: Neuro-sama/Vedal
+        cover: audios/Chinatown Blues.jpg
+        lrc: audios/Chinatown Blues.lrc
       - name: 越权访问
         artist: hanser
         url: audios/越权访问.mp3
